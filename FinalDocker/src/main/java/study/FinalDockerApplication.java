@@ -1,8 +1,5 @@
 package study;
 
-import org.springframework.boot.SpringBootConfiguration;
-
-@SpringBootConfiguration
 public class FinalDockerApplication {
 
 	public static void main(String[] args) 
